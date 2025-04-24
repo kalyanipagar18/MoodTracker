@@ -1,8 +1,8 @@
-Features
-React & Vite setup for lightning-fast development
 
-Fast Refresh: Retain component state while editing
+## Features
 
-ESLint: Code linting to maintain code quality
+- **Fast Refresh**: Retains state of your React components during code edits.
+- **Minimal Setup**: Quickly start building with no unnecessary configurations.
+- **ESLint**: Pre-configured linting for maintaining code quality.
+- **Optimized for Development**: Vite provides a fast and modern build tool.
 
-Lightweight: Minimal setup, ideal for starting new projects
